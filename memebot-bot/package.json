@@ -1,0 +1,12 @@
+{
+  "name": "memebot-bot",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node -r esm index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "execa": "^5.0.0"
+  }
+}
